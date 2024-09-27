@@ -124,3 +124,6 @@ This React application serves as a frontend for displaying blog posts scraped by
 - Add sorting options for blog posts
 - Enhance UI/UX with more interactive features
 - Implement user authentication for personalized experiences
+
+# Task3
+The answer is in the branch of 'task3'
