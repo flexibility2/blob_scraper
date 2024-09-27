@@ -5,6 +5,8 @@ Code are in the branch of '**task1**', '**task2**', '**task3**'
 ## Overview
 
 This web crawler is designed to scrape blog posts from Protocol Labs and Ethereum blogs. It's built using Python and includes features for scheduling, error handling, and database storage.
+![image](https://github.com/user-attachments/assets/3a95419f-4e7c-4d97-9a6e-d00e926d93c2)
+
 
 ## Key Components
 
@@ -61,6 +63,8 @@ This web crawler is designed to scrape blog posts from Protocol Labs and Ethereu
 ## Overview
 
 This React application serves as a frontend for displaying blog posts scraped by the web crawler. It features infinite scrolling, filtering, and real-time updates using React Query.
+![image](https://github.com/user-attachments/assets/f122ed21-d602-43f5-950d-f4f6fac9cdd9)
+
 
 ## Key Components
 
